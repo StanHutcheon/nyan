@@ -1,0 +1,32 @@
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\bin\Debug\nyan.exe
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\bin\Debug\nyan.pdb
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\bin\Debug\nyan.xml
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\nyan.Form1.resources
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\nyan.Resources.resources
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\nyan.exe
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\nyan.xml
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\nyan.pdb
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Stan\AppData\Local\Temporary Projects\nyan\obj\x86\Debug\nyan.vbproj.ResolveComReference.cache
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\nyan.vbproj.ResolveComReference.cache
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\nyan.exe
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\nyan.xml
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\nyan.pdb
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\bin\Debug\nyan.exe
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\bin\Debug\nyan.pdb
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\bin\Debug\nyan.xml
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\nyan.Form1.resources
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\nyan.Resources.resources
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Stan\documents\visual studio 2010\Projects\nyan\nyan\obj\x86\Debug\ResGen.write.1.tlog

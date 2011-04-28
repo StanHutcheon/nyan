@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "nyan", "nyan\nyan.vbproj", "{ABD173B5-A349-4556-BACE-785DF7551CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD173B5-A349-4556-BACE-785DF7551CEF}.Debug|x86.ActiveCfg = Debug|x86
+		{ABD173B5-A349-4556-BACE-785DF7551CEF}.Debug|x86.Build.0 = Debug|x86
+		{ABD173B5-A349-4556-BACE-785DF7551CEF}.Release|x86.ActiveCfg = Release|x86
+		{ABD173B5-A349-4556-BACE-785DF7551CEF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
